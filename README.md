@@ -26,7 +26,7 @@ Usage Instructions
 
 Get the user ID:
 
-1. Log in to the GetGrass website: https://app.getgrass.io/register/?referralCode=x2WrNmdmnoG-YuX
+1. Log in to the GetGrass website: https://app.getgrass.io/dashboard
 
 
 2. Open your browser's developer tools (usually by pressing F12 or by right-clicking and selecting "Inspect").
